@@ -1,0 +1,29 @@
+body{
+    background-color: lightgray;
+}
+.class{
+    font-size: 11px;
+    font-weight: 700px;
+}
+.text{
+    margin-left: 100px;
+}
+p{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left:50px;
+}
+img{
+    vertical-align: middle;
+}
+h1{
+    font-family:'Roboto', sans-serif;
+}
+li{
+    font-family:'Roboto', sans-serif;
+    font-size: 12px;
+}
+h2{
+    font-family:'Roboto', sans-serif;
+    font-size: 12px;
+}
